@@ -6,3 +6,9 @@ id,type,domain,enabled,date_added,date_modified,comment
 5,3,(\.|^)gvt2.com$,1,1617105564,1617105564,
 6,1,open.acgnxtracker.com,1,1617108085,1617108085,"Added from Query Log"
 7,1,graph.facebook.com,1,1617142672,1617142672,
+8,0,nbstream.binance.com,1,1617201653,1617201653,"Added from Query Log"
+9,0,fstream.binance.com,1,1617201657,1617201657,"Added from Query Log"
+10,1,alt3-mtalk.google.com,1,1617210526,1617210526,"Added from Query Log"
+11,1,app-measurement.com,1,1617210530,1617210530,"Added from Query Log"
+12,1,data.paddle.com,1,1617210568,1617210568,"Added from Query Log"
+13,1,log.tailscale.io,1,1617210586,1617210586,"Added from Query Log"
