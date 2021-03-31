@@ -5,3 +5,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 4,3,(\.|^)gvt1.com$,1,1617105520,1617105520,
 5,3,(\.|^)gvt2.com$,1,1617105564,1617105564,
 6,1,open.acgnxtracker.com,1,1617108085,1617108085,"Added from Query Log"
+7,1,graph.facebook.com,1,1617142672,1617142672,
