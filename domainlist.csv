@@ -11,4 +11,5 @@ id,type,domain,enabled,date_added,date_modified,comment
 10,1,alt3-mtalk.google.com,1,1617210526,1617210526,"Added from Query Log"
 11,1,app-measurement.com,1,1617210530,1617210530,"Added from Query Log"
 12,1,data.paddle.com,1,1617210568,1617210568,"Added from Query Log"
-13,1,log.tailscale.io,1,1617210586,1617210586,"Added from Query Log"
+14,0,log.tailscale.io,1,1617220225,1617220225,"Added from Query Log"
+15,1,mrs-mvp.trafficmanager.net,1,1617225279,1617225279,"Added from Query Log"
