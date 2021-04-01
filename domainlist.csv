@@ -31,3 +31,5 @@ id,type,domain,enabled,date_added,date_modified,comment
 33,1,alt6-mtalk.google.com,1,1617272685,1617272685,"Added from Query Log"
 34,1,aus5.mozilla.org,1,1617272702,1617272702,"Added from Query Log"
 35,1,suggestqueries-clients6.youtube.com,1,1617274365,1617274365,"Added from Query Log"
+36,1,alt2-mtalk.google.com,1,1617284072,1617284072,"Added from Query Log"
+37,1,ams2.current.a.prd.aadg.trafficmanager.net,1,1617284525,1617284525,"Added from Query Log"
