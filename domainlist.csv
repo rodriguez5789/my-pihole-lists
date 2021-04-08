@@ -37,3 +37,6 @@ id,type,domain,enabled,date_added,date_modified,comment
 39,0,campaign.aliexpress.com,1,1617827941,1617827941,"Added from Query Log"
 40,1,scdnco.spotify.map.fastly.net,1,1617828537,1617828537,"Added from Query Log"
 41,1,prod.detectportal.prod.cloudops.mozgcp.net,1,1617840196,1617840196,"Added from Query Log"
+42,0,sensors.binance.cloud,1,1617879185,1617879185,"Added from Query Log"
+43,0,url8807.global.passport.xiaomi.com,1,1617881595,1617881595,"Added from Query Log"
+44,0,sendgrid.net,1,1617881611,1617881611,"Added from Query Log"
