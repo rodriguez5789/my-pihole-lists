@@ -36,3 +36,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 38,0,boards.4chan.org,1,1617827768,1617827768,"Added from Query Log"
 39,0,campaign.aliexpress.com,1,1617827941,1617827941,"Added from Query Log"
 40,1,scdnco.spotify.map.fastly.net,1,1617828537,1617828537,"Added from Query Log"
+41,1,prod.detectportal.prod.cloudops.mozgcp.net,1,1617840196,1617840196,"Added from Query Log"
