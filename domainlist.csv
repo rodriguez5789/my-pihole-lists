@@ -1,15 +1,13 @@
 id,type,domain,enabled,date_added,date_modified,comment
-1,1,mtalk.google.com,1,1617104676,1617104676,"Added from Query Log"
 2,1,www.hanqiweb.com,1,1617104684,1617104684,"Added from Query Log"
 3,1,www.hanqiweb.cn,1,1617104690,1617104690,"Added from Query Log"
 4,3,(\.|^)gvt1.com$,1,1617105520,1617105520,
 5,3,(\.|^)gvt2.com$,1,1617105564,1617105564,
 6,1,open.acgnxtracker.com,1,1617108085,1617108085,"Added from Query Log"
 7,1,graph.facebook.com,1,1617142672,1617142672,
-8,0,nbstream.binance.com,1,1617201653,1617201653,"Added from Query Log"
+8,0,nbstream.binance.com,1,1617201653,1617989407,
 9,0,fstream.binance.com,1,1617201657,1617201657,"Added from Query Log"
 10,1,alt3-mtalk.google.com,1,1617210526,1617210526,"Added from Query Log"
-11,1,app-measurement.com,1,1617210530,1617210530,"Added from Query Log"
 12,1,data.paddle.com,1,1617210568,1617210568,"Added from Query Log"
 14,0,log.tailscale.io,1,1617220225,1617220225,"Added from Query Log"
 15,1,mrs-mvp.trafficmanager.net,1,1617225279,1617225279,"Added from Query Log"
@@ -41,3 +39,8 @@ id,type,domain,enabled,date_added,date_modified,comment
 43,0,url8807.global.passport.xiaomi.com,1,1617881595,1617881595,"Added from Query Log"
 44,0,sendgrid.net,1,1617881611,1617881611,"Added from Query Log"
 45,0,www.guns.com,1,1617915024,1617915024,"Added from Query Log"
+47,1,android-safebrowsing.google.com,1,1617972491,1617972491,"Added from Query Log"
+48,0,www.googletagmanager.com,1,1617988921,1617988921,"Added from Query Log"
+49,1,mtalk.google.com,1,1617989256,1617989256,"Added from Query Log"
+50,1,app-measurement.com,1,1617989259,1617989259,"Added from Query Log"
+51,1,api.gameanalytics.com,1,1617989265,1617989265,"Added from Query Log"
