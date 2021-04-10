@@ -1,15 +1,12 @@
 id,type,domain,enabled,date_added,date_modified,comment
 2,1,www.hanqiweb.com,1,1617104684,1617104684,"Added from Query Log"
 3,1,www.hanqiweb.cn,1,1617104690,1617104690,"Added from Query Log"
-4,3,(\.|^)gvt1.com$,1,1617105520,1617105520,
-5,3,(\.|^)gvt2.com$,1,1617105564,1617105564,
 6,1,open.acgnxtracker.com,1,1617108085,1617108085,"Added from Query Log"
 7,1,graph.facebook.com,1,1617142672,1617142672,
 8,0,nbstream.binance.com,1,1617201653,1617989407,
 9,0,fstream.binance.com,1,1617201657,1617201657,"Added from Query Log"
 10,1,alt3-mtalk.google.com,1,1617210526,1617210526,"Added from Query Log"
 12,1,data.paddle.com,1,1617210568,1617210568,"Added from Query Log"
-14,0,log.tailscale.io,1,1617220225,1617220225,"Added from Query Log"
 15,1,mrs-mvp.trafficmanager.net,1,1617225279,1617225279,"Added from Query Log"
 16,1,firefox.settings.services.mozilla.com,1,1617268762,1617268762,"Added from Query Log"
 18,1,push.services.mozilla.com,1,1617268768,1617268768,"Added from Query Log"
@@ -44,3 +41,7 @@ id,type,domain,enabled,date_added,date_modified,comment
 49,1,mtalk.google.com,1,1617989256,1617989256,"Added from Query Log"
 50,1,app-measurement.com,1,1617989259,1617989259,"Added from Query Log"
 51,1,api.gameanalytics.com,1,1617989265,1617989265,"Added from Query Log"
+53,0,snowplow.trx.gitlab.net,1,1617991749,1617991749,"Added from Query Log"
+55,1,log.tailscale.io,1,1618007632,1618007632,"Added from Query Log"
+56,1,www.tm.a.prd.aadg.trafficmanager.net,1,1618007666,1618007666,"Added from Query Log"
+57,1,gj.gds.mmstat.com,1,1618009278,1618009278,"Added from Query Log"
