@@ -45,3 +45,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 57,1,gj.gds.mmstat.com,1,1618009278,1618009278,"Added from Query Log"
 58,1,prod.detectportal.prod.cloudops.mozgcp.net,1,1618948249,1618948249,"Added from Query Log"
 59,1,mtalk.google.com,1,1618948252,1618948252,"Added from Query Log"
+60,0,fr.shopping.rakuten.com,1,1619094426,1619094426,"Added from Query Log"
