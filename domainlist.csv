@@ -29,7 +29,7 @@ id,type,domain,enabled,date_added,date_modified,comment
 36,1,alt2-mtalk.google.com,1,1617284072,1617284072,"Added from Query Log"
 37,1,ams2.current.a.prd.aadg.trafficmanager.net,1,1617284525,1617284525,"Added from Query Log"
 38,0,boards.4chan.org,1,1617827768,1617827768,"Added from Query Log"
-39,0,campaign.aliexpress.com,1,1617827941,1617827941,"Added from Query Log"
+39,0,campaign.aliexpress.com,1,1617827941,1619253350,
 40,1,scdnco.spotify.map.fastly.net,1,1617828537,1617828537,"Added from Query Log"
 42,0,sensors.binance.cloud,1,1617879185,1617879185,"Added from Query Log"
 43,0,url8807.global.passport.xiaomi.com,1,1617881595,1617881595,"Added from Query Log"
@@ -46,3 +46,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 58,1,prod.detectportal.prod.cloudops.mozgcp.net,1,1618948249,1618948249,"Added from Query Log"
 59,1,mtalk.google.com,1,1618948252,1618948252,"Added from Query Log"
 60,0,fr.shopping.rakuten.com,1,1619094426,1619094426,"Added from Query Log"
+62,0,h-adashx4ae.ut.taobao.com,1,1619253404,1619253404,"Added from Query Log"
