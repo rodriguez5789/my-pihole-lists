@@ -48,3 +48,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 62,0,h-adashx4ae.ut.taobao.com,1,1619253404,1619253404,"Added from Query Log"
 63,0,log.tailscale.io,1,1619724010,1619724010,"Added from Query Log"
 64,0,freegeoip.app,1,1622710078,1622710078,"Used by dietpi-banner and dietpi-vpn to obtain your public IP and location"
+65,0,detectportal.firefox.com,1,1623770212,1623770212,"Added from Query Log"
