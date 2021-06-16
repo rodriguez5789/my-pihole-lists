@@ -49,3 +49,7 @@ id,type,domain,enabled,date_added,date_modified,comment
 63,0,log.tailscale.io,1,1619724010,1619724010,"Added from Query Log"
 64,0,freegeoip.app,1,1622710078,1622710078,"Used by dietpi-banner and dietpi-vpn to obtain your public IP and location"
 65,0,detectportal.firefox.com,1,1623770212,1623770212,"Added from Query Log"
+66,0,teams.events.data.microsoft.com,1,1623831779,1623831779,"Added from Query Log"
+67,0,login.windows.net,1,1623831993,1623831993,"Added from Query Log"
+68,0,login.microsoftonline.com,1,1623832005,1623832005,"Added from Query Log"
+70,0,rosszlanyok.hu,1,1623836341,1623836341,"Added from Query Log"
