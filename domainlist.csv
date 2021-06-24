@@ -53,3 +53,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 67,0,login.windows.net,1,1623831993,1623831993,"Added from Query Log"
 68,0,login.microsoftonline.com,1,1623832005,1623832005,"Added from Query Log"
 70,0,rosszlanyok.hu,1,1623836341,1623836341,"Added from Query Log"
+71,0,www.4chan.org,1,1624522583,1624522583,"Added from Query Log"
