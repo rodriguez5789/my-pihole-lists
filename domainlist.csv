@@ -54,3 +54,7 @@ id,type,domain,enabled,date_added,date_modified,comment
 68,0,login.microsoftonline.com,1,1623832005,1623832005,"Added from Query Log"
 70,0,rosszlanyok.hu,1,1623836341,1623836341,"Added from Query Log"
 71,0,www.4chan.org,1,1624522583,1624522583,"Added from Query Log"
+72,1,fr.app.chat.global.xiaomi.net,1,1625849843,1625849843,
+73,1,api.sec.intl.miui.com,1,1625849849,1625849849,
+74,1,authbe.sec.intl.miui.com,1,1625849853,1625849853,
+75,0,beacons5.gvt3.com,1,1625849865,1625849865,
