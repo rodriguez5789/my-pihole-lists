@@ -13,7 +13,7 @@ id,type,domain,enabled,date_added,date_modified,comment
 19,1,apple-finance.query.yahoo.com,1,1617268796,1617268796,"Added from Query Log"
 20,1,tracking.paypal.com,1,1617268822,1617268822,"Added from Query Log"
 22,1,alt4-mtalk.google.com,1,1617268899,1617268899,"Added from Query Log"
-23,1,alt5-mtalk.google.com,1,1617268913,1617268913,"Added from Query Log"
+23,1,alt5-mtalk.google.com,1,1617268913,1626095264,"Added from Query Log"
 24,1,alt8-mtalk.google.com,1,1617268964,1617268964,"Added from Query Log"
 25,1,fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com,1,1617268973,1617268973,"Added from Query Log"
 26,1,resolver.msg.global.xiaomi.net,1,1617268982,1617268982,"Added from Query Log"
@@ -43,7 +43,7 @@ id,type,domain,enabled,date_added,date_modified,comment
 56,1,www.tm.a.prd.aadg.trafficmanager.net,1,1618007666,1618007666,"Added from Query Log"
 57,1,gj.gds.mmstat.com,1,1618009278,1618009278,"Added from Query Log"
 58,1,prod.detectportal.prod.cloudops.mozgcp.net,1,1618948249,1618948249,"Added from Query Log"
-59,1,mtalk.google.com,1,1618948252,1618948252,"Added from Query Log"
+59,1,mtalk.google.com,1,1618948252,1626095267,"Added from Query Log"
 60,0,fr.shopping.rakuten.com,1,1619094426,1619094426,"Added from Query Log"
 62,0,h-adashx4ae.ut.taobao.com,1,1619253404,1619253404,"Added from Query Log"
 63,0,log.tailscale.io,1,1619724010,1619724010,"Added from Query Log"
@@ -58,3 +58,7 @@ id,type,domain,enabled,date_added,date_modified,comment
 73,1,api.sec.intl.miui.com,1,1625849849,1625849849,
 74,1,authbe.sec.intl.miui.com,1,1625849853,1625849853,
 75,0,beacons5.gvt3.com,1,1625849865,1625849865,
+76,0,tokens.1inch.exchange,1,1626095226,1626095226,
+77,0,beacons.gvt2.com,1,1626095250,1626095250,
+78,0,alt5-mtalk.google.com,1,1626095264,1626095264,
+79,0,mtalk.google.com,1,1626095267,1626095267,
